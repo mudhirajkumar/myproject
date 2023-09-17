@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair&family=Sigmar&display=swap');
+
+
+p {
+    font-family: 'Playfair', serif;
+    text-align:center;
+    background-color: rgb(156, 211, 217);
+    width: 940px;
+    border: 15px solid rgb(192, 219, 74);
+    padding: 20px;
+    margin: 50px;
+  }
